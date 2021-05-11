@@ -44,9 +44,9 @@ body{
 
     var greet;
 
-    if (hrs <= 04)
+    if (hrs <= 4)
         greet = 'Wake up for your Future  ';
-    else if (hrs >= 07 && hrs <= 11)
+    else if (hrs >= 7 && hrs <= 11)
         greet = 'Keep going Joyce! ';
     else if (hrs >= 11 && hrs <= 17)
         greet = 'Trust me, you will survive  ';
